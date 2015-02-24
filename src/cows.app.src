@@ -1,0 +1,5 @@
+{application, cows, [
+ {description, "Helpers for cowboy"},
+ {vsn, "0.1.0"},
+ {applications, [stdlib, kernel]}
+]}.
